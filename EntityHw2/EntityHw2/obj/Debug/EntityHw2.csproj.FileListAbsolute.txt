@@ -1,0 +1,13 @@
+C:\Users\Alibek\source\repos\EntityHw2\EntityHw2\bin\Debug\EntityHw2.exe.config
+C:\Users\Alibek\source\repos\EntityHw2\EntityHw2\bin\Debug\EntityHw2.exe
+C:\Users\Alibek\source\repos\EntityHw2\EntityHw2\bin\Debug\EntityHw2.pdb
+C:\Users\Alibek\source\repos\EntityHw2\EntityHw2\bin\Debug\EntityFramework.dll
+C:\Users\Alibek\source\repos\EntityHw2\EntityHw2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alibek\source\repos\EntityHw2\EntityHw2\bin\Debug\EntityFramework.xml
+C:\Users\Alibek\source\repos\EntityHw2\EntityHw2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alibek\source\repos\EntityHw2\EntityHw2\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Alibek\source\repos\EntityHw2\EntityHw2\obj\Debug\EntityHw2.csprojAssemblyReference.cache
+C:\Users\Alibek\source\repos\EntityHw2\EntityHw2\obj\Debug\EntityHw2.csproj.CoreCompileInputs.cache
+C:\Users\Alibek\source\repos\EntityHw2\EntityHw2\obj\Debug\EntityHw2.csproj.CopyComplete
+C:\Users\Alibek\source\repos\EntityHw2\EntityHw2\obj\Debug\EntityHw2.exe
+C:\Users\Alibek\source\repos\EntityHw2\EntityHw2\obj\Debug\EntityHw2.pdb
